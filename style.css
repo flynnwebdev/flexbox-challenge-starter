@@ -138,3 +138,8 @@ main article p {
     justify-content: space-between;
 }
 
+/* Footer */
+footer {
+    text-align: center;
+    padding: 1rem;   
+}
