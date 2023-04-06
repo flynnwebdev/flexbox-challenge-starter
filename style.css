@@ -35,3 +35,40 @@ nav a {
   font-size: 1.25rem;
 }
 
+/* Hero Content */
+/* T1W2D4 LAST HOUR: */
+#hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #8980c2 url('images/zebra-hero.jpg') no-repeat center;
+  background-size: cover;
+  
+  padding: 2rem 0;
+}
+
+#hero h1,
+#hero a {
+  color: white;
+}
+#hero h1 {
+  font-family: "Bree Serif" "Times New Roman", Times, serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin: 1rem 0;
+}
+
+#hero a {
+  text-decoration: none;
+  font-family: lato Arial, Helvetica, sans-serif;
+  font-size: 1.25rem;
+  font-weight: normal;
+  border: 1px solid white;
+  padding: .75rem 1.2rem;
+}
+
+#hero img {
+  width: 50%;
+  border-radius: 50%;
+}
+
