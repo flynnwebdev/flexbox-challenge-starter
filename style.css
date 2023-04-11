@@ -149,3 +149,16 @@ main article a {
     display: flex;
     justify-content: space-around;
 }
+
+/* Footer component */
+
+footer {
+    text-align: center;
+    padding: 1rem;
+}
+
+footer p {
+  font-family: "Bree Serif" "Times New Roman", Times, serif;
+    color: #888;
+    font-size: 1.25rem;
+}
